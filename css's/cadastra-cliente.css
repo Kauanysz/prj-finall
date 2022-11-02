@@ -1,0 +1,27 @@
+:root{
+    --branco:#fff;
+    --preto:#000;
+    --bg:#333;
+    --vermelho:#FF2A25;
+    --vinho:#981916;
+    --rosa-claro:#FFA9A7;
+    --rosa-escuro:#FF7F7C;
+    --rosinha:#f0c1c0;
+    --cinza-escuro:#455A64;
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: #f1f1f1;
+    min-height: 100vh;
+}
+
+
+
